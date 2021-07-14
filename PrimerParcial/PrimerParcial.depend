@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1626269054 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+
+1626264857 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\datawarehouse.h
+
+1626268660 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\cliente.h
+	"funciones.h"
+
+1626230021 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\funciones.h
+
+1626265504 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+
+1626230021 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\color.h
+
+1626230021 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+
+1626230021 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\fecha.h
+
+1626265993 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1626271583 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+
+1626270979 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\trabajo.h
+	"mascotas.h"
+	"servicio.h"
+	"fecha.h"
+	"menu.h"
+
+1626270566 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\mascotas.h
+	"tipo.h"
+	"color.h"
+	"funciones.h"
+	"cliente.h"
+
+1626230021 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\tipo.h
+
+1626230021 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\servicio.h
+	"funciones.h"
+
+1626230021 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\menu.h
+
+1626269941 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+
+1626271583 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1626269941 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1626265469 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1626271583 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+

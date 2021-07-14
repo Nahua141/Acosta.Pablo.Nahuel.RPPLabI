@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1626224972 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+
+1626225324 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\cliente.h
+
+1626225324 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\utn.h
+
+1626224971 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"mascota.h"
+	"tipo.h"
+	"colores.h"
+
+1626228922 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\mascota.h
+	"tipo.h"
+	"colores.h"
+	"cliente.h"
+
+1626225324 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\tipo.h
+	"mascota.h"
+
+1626225324 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\colores.h
+	"mascota.h"
+
+1626225324 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\fecha.c
+
+1626225324 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"informes.h"
+	"mascota.h"
+	"tipo.h"
+	"colores.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1626228697 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\informes.h
+	"servicio.h"
+	"mascota.h"
+	"tipo.h"
+	"colores.h"
+	"trabajo.h"
+	"cliente.h"
+
+1626225324 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\servicio.h
+
+1626225324 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\trabajo.h
+	"servicio.h"
+	"fecha.h"
+	"mascota.h"
+	"tipo.h"
+	"colores.h"
+
+1626225324 c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\fecha.h
+
+1626225324 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"mascota.h"
+	"cliente.h"
+	"tipo.h"
+	"informes.h"
+	"colores.h"
+
+1626225324 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"informes.h"
+	"mascota.h"
+	"tipo.h"
+	"colores.h"
+	"servicio.h"
+
+1626225324 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"mascota.h"
+	"tipo.h"
+	"colores.h"
+
+1626225324 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"servicio.h"
+	"trabajo.h"
+	"mascota.h"
+	"tipo.h"
+	"colores.h"
+	"cliente.h"
+
+1626225324 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+
+1626228301 source:c:\users\nahue\onedrive\escritorio\primerparcialacostapablonahuel\primerparcialacostapablonahuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"informes.h"
+	"mascota.h"
+	"tipo.h"
+	"colores.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
